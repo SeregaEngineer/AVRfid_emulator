@@ -8,8 +8,8 @@ Low fuse bit для attyni13a: lfuse = 0x70 \
 [NE555 designer](https://radioaktiv.ru/loads/softf/calc/27942-555-timer-designer-free-programma-dlya-rascheta-shem-na-555-taymere.html)
 
 
- ![Фото платы](https://github.com/VillageEngineer/AVRfid_emulator/tree/main/foto/front.JPG) \
- ![Фото платы](https://github.com/VillageEngineer/AVRfid_emulator/tree/main/foto/front.JPG) 
+ ![Фото платы](https://github.com/VillageEngineer/AVRfid_emulator/tree/main/foto/front.jpg) \
+ ![Фото платы](https://github.com/VillageEngineer/AVRfid_emulator/tree/main/foto/rear.jpg) 
 
 
  
